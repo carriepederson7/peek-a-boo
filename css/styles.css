@@ -1,0 +1,29 @@
+#initially-hidden {
+  display:none;
+}
+
+/* #initially-showing {
+
+} */
+
+#fadeIn {
+  display:none;
+}
+
+/* #fadeOut {
+
+} */
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
