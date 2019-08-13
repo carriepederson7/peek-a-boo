@@ -14,6 +14,15 @@
 
 } */
 
+.light-background {
+  background-color: #E6edf2;
+}
+
+.dark-background {
+  background-color: #333739;
+  color: #E6edf2;
+}
+
 .clickable {
   cursor: pointer;
   color: #0088cc;
